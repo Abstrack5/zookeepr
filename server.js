@@ -74,3 +74,12 @@ app.get("/api/animals/:id", (req, res) => {
 app.listen(PORT, () => {
   console.log(`API server now on port ${PORT}!`);
 });
+
+
+
+
+
+
+// https://still-brook-61502.herokuapp.com/api/animals
+// http://localhost:3001/api/animals
+
