@@ -1,0 +1,5 @@
+https://still-brook-61502.herokuapp.com/api/animals
+http://localhost:3001/api/animals
+
+
+req.body is where we can access and use the data sent from a client to a server.
